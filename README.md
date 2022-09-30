@@ -29,7 +29,7 @@
 ## Features
 
 ## Contributing
-Color gradient: https://stackoverflow.com/questions/2869212/css3-gradient-background-set-on-body-doesnt-stretch-but-instead-repeats
-
-Unsplash Image / Favicon: https://unsplash.com/photos/ROsXqvRzhiQ
+* Color gradient: https://stackoverflow.com/questions/2869212/css3-gradient-background-set-on-body-doesnt-stretch-but-instead-repeats
+* Favicon: https://www.w3schools.com/html/html_favicon.asp
+* Unsplash Image / Favicon: https://unsplash.com/photos/ROsXqvRzhiQ
 ## Tests
