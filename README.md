@@ -31,5 +31,5 @@
 ## Contributing
 Color gradient: https://stackoverflow.com/questions/2869212/css3-gradient-background-set-on-body-doesnt-stretch-but-instead-repeats
 
-Unsplash Image: https://unsplash.com/photos/fswQZLlHC3Y
+Unsplash Image / Favicon: https://unsplash.com/photos/ROsXqvRzhiQ
 ## Tests
