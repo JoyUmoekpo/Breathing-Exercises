@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    font-family: 'Londrina Shadow', cursive;
+    font-family: 'Oxygen', sans-serif;
     color: #fff;
     text-align: center;
 }
@@ -17,6 +17,6 @@ body {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    border: 5px solid #FFFF00;
+    border: 5px solid #65E892;
     padding: 10px;
 }
