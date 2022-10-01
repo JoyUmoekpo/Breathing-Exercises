@@ -43,11 +43,11 @@ div {
     padding: 15px;
 }
 
-#timer {
+/* #timer {
     position: absolute;
     left: 50%;
     top: 75%;
     transform: translate(-50%, -50%);
     border: 10px dotted #65E892;
     padding: 10px;
-}
+} */
