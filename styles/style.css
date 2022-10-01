@@ -16,12 +16,18 @@ div {
 .center {
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 75%;
     transform: translate(-50%, -50%);
     border: 10px dotted #65E892;
-    padding: 50px;
+    padding: 30px;
 }
 
-.dateToday {
-    
+#dateToday {
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    border: 10px dotted #65E892;
+    padding: 30px;
 }
