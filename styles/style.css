@@ -13,6 +13,16 @@ div {
     text-align: center;
 }
 
+#breatheContainer {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    border: 10px dotted #65E892;
+    padding: 30px;
+}
+
 #dateToday {
     position: absolute;
     left: 50%;
