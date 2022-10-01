@@ -13,15 +13,6 @@ div {
     text-align: center;
 }
 
-.center {
-    position: absolute;
-    left: 50%;
-    top: 75%;
-    transform: translate(-50%, -50%);
-    border: 10px dotted #65E892;
-    padding: 30px;
-}
-
 #dateToday {
     position: absolute;
     left: 50%;
@@ -30,4 +21,13 @@ div {
     font-size: 30px;
     border: 10px dotted #65E892;
     padding: 30px;
+}
+
+#start {
+    position: absolute;
+    left: 50%;
+    top: 75%;
+    transform: translate(-50%, -50%);
+    border: 10px dotted #65E892;
+    padding: 10px;
 }
