@@ -6,7 +6,7 @@ html {
     background-repeat: no-repeat;
 }
 
-body {
+div {
     font-family: 'Oxygen', sans-serif;
     margin: 0;
     color: #fff;
@@ -19,5 +19,5 @@ body {
     top: 50%;
     transform: translate(-50%, -50%);
     border: 10px dotted #65E892;
-    padding: 10px;
+    padding: 50px;
 }

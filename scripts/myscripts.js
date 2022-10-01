@@ -1,3 +1,3 @@
 function startBreatheTimer () {
-    alert("Hey girl!\nHow are you doing?");
+    alert("Hey!\nHow are you doing?");
 }
