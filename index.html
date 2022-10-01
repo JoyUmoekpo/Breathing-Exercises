@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,17 +9,31 @@
     <title>Breathe...</title>
 
     <link rel="icon" type="image/png" href="./assets/daisy.png">
-    
+
     <link href="https://fonts.googleapis.com/css2?family=Oxygen&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="./styles/style.css">
 
     <script src="./scripts/myscripts.js"></script>
 </head>
+
 <body>
     <div class="center">
         <h1>Press 'Start' when you're ready.</h1>
         <button onclick="startBreatheTimer()">Start</button>
     </div>
+    
+    <div id="dateToday"></div>
+    
+    <script>
+        const date = new Date();
+        let day = date.getDate();
+        let month = date.getMonth() + 1;
+        let year = date.getFullYear();
+        let currentDate = `${month}-${day}-${year}`;
+
+        document.getElementById("dateToday").innerHTML = currentDate;
+    </script>
 </body>
+
 </html>
