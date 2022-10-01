@@ -1,3 +1,3 @@
-function startBreatheTimer () {
-    alert("Hey!\nHow are you doing?");
-}
+// function startBreatheTimer () {
+//     alert("Hey!\nHow are you doing?");
+// }
