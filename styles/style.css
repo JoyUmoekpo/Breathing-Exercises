@@ -29,7 +29,7 @@ div {
     top: 30%;
     transform: translate(-50%, -50%);
     font-size: 70px;
-    border: 10px dotted #65E892;
+    border: 3px dotted #65E892;
     padding: 10px;
 }
 
@@ -46,17 +46,18 @@ div {
 #timer {
     position: absolute;
     left: 50%;
-    top: 75%;
+    top: 65%;
     transform: translate(-50%, -50%);
-    border: 10px dotted #65E892;
-    padding: 25px;
-    width: 550px;
+    /* border: 10px dotted #65E892; */
+    padding: 55px;
+    width: 750px;
     height: 100px;
 }
 
 #timer div {
     display: inline-block;
-    padding: 10px;
+    padding: 45px;
+    border: 3px solid #65E892;
     width: 150px;
 }
 
