@@ -18,9 +18,9 @@ div {
     left: 50%;
     top: 40%;
     transform: translate(-50%, -50%);
-    font-size: 30px;
-    border: 10px dotted #65E892;
-    padding: 30px;
+    font-size: 70px;
+    /* border: 10px; */
+    /* padding: 50px; */
 }
 
 #dateToday {
