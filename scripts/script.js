@@ -38,8 +38,31 @@ function updateCountdownTwo() {
         countdownTwo.innerHTML = `Hold breath: ${secondsTwo}`;
         timeTwo--;
     }
+
+    if (timeTwo == 0) {
+        breatheOut()
+    }
 }
 }
 
-breatheIn();
-// holdBreath();
+function breatheOut() {
+    const timerThreeSeconds = 8;
+    let timeThree = timerThreeSeconds;
+    
+    const countdownThree = document.getElementById("third");
+    setInterval(updateCountdownThree, 1000);
+    
+    function updateCountdownThree() {
+    
+        
+        if (timeThree >= 0) {
+            // const minutes = Math.floor(time / 60);
+            let secondsThree = timeThree % 60;
+            countdownThree.innerHTML = `Breathe out: ${secondsThree}`;
+            timeThree--;
+        }
+    }
+    }
+
+
+// breatheIn();
