@@ -8,6 +8,7 @@
 * [Technologies Used](#technologies-used)
 * [Installation](#installation)
 * [Usage](#usage)
+* [Future Developments](#future-developments)
 * [Credits](#credits)
 * [License](#license)
 
