@@ -4,8 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![GitHub latest commit](https://img.shields.io/github/last-commit/JoyUmoekpo/Breathing-Exercises)](https://github.com/JoyUmoekpo/Breathing-Exercises/commit/main)
 
- A guided breathing exercise application utilizing HTML, CSS, and JavaScript
-
 ## Description
 
 Welcome to Breathing Exercises! With this application, users can use a breathing exercise. After clicking the start button on the first page, the user will be directed to the breathing exercise page where a timer will guide them through a breathing exercise. This type of exercise is useful for those who feel overwhelmed or anxious or anyone else that wants to incorporate a breathing exercise into their day.
@@ -30,6 +28,9 @@ Welcome to Breathing Exercises! With this application, users can use a breathing
 * JavaScript
 
 ## Deployed Link
+
+* This application is hosted on the netlify environment: [Breathing Exercises](https://breathing-exercises.netlify.app/)
+* This is the repository link for this application: [Breathing Exercises Repository](https://github.com/JoyUmoekpo/Breathing-Exercises)
 
 ## Features
 
