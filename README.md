@@ -10,20 +10,30 @@
 ## Table of Contents
 
 * [Technologies Used](#technologies-used)
-* [Installation](#installation)
-* [Usage](#usage)
+* [Deployed Link](#deployed-link)
+* [Features](#features)
 * [Future Developments](#future-developments)
+* [Application Images](#application-images)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 * [Credits](#credits)
 * [License](#license)
 
+
 ## Technologies Used
-
-## Installation
-
-## Usage
-
+## Deployed Link
+## Features
 ## Future developments
 * Different color themes
+
+## Application Image(s)
+
+## Contributing
+
+## Tests
+
+## Questions
 
 ## Credits
 * Centered Text: https://blog.hubspot.com/website/center-div-css
