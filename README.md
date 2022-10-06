@@ -3,6 +3,7 @@
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![GitHub latest commit](https://img.shields.io/github/last-commit/JoyUmoekpo/Breathing-Exercises)](https://github.com/JoyUmoekpo/Breathing-Exercises/commit/main)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e01dbce9-e897-498e-87eb-370b747ac8ee/deploy-status)](https://app.netlify.com/sites/breathing-exercises/deploys)
 
 ## Description
 
