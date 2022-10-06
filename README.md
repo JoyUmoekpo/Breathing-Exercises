@@ -6,6 +6,7 @@
  A guided breathing exercise application utilizing HTML, CSS, and JavaScript
 
 ## Description
+Welcome to Breathing Exercises! With this application, users can use a breathing exercise. After clicking the start button on the first page, the user will be directed to the breathing exercise page where a timer will guide them through a breathing exercise. This type of exercise is useful for those who feel overwhelmed or anxious or anyone else that wants to incorporate a breathing exercise into their day.
 
 ## Table of Contents
 
@@ -20,28 +21,44 @@
 * [Credits](#credits)
 * [License](#license)
 
-
 ## Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+
 ## Deployed Link
+
 ## Features
+
+* One breathing exercise: 4 seconds of breathing in, 7 seconds of holding your breath, and 8 seconds of breathing out
 ## Future developments
+
 * Different color themes
+* Different breathing exercises
 
 ## Application Image(s)
 
 ## Contributing
 
+* I'm open to contributions!
+
 ## Tests
+
+* No tests were preformed.
 
 ## Questions
 
+If you have any questions, feel free to contact me by using the information listed below:
+
+* Github: https://github.com/joyumoekpo
+* Email: joyumoekpo1@gmail.com
 ## Credits
 * Centered Text: https://blog.hubspot.com/website/center-div-css
 * Color gradient: https://stackoverflow.com/questions/2869212/css3-gradient-background-set-on-body-doesnt-stretch-but-instead-repeats
 * Date Function: 
 https://www.freecodecamp.org/news/javascript-get-current-date-todays-date-in-js/, 
 https://phoenixnap.com/kb/how-to-get-the-current-date-and-time-javascript
-* Favicon: https://www.w3schools.com/html/html_favicon.asp
 * Unsplash Image / Favicon: https://unsplash.com/photos/ROsXqvRzhiQ
 ## License
 ### MIT License
