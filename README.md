@@ -43,6 +43,7 @@ Welcome to Breathing Exercises! With this application, users can use a breathing
 ## Application Image(s)
 
 ![Image 1](./assets/image1.png)
+
 ![Image 2](./assets/image2.png)
 
 ## Contributing
