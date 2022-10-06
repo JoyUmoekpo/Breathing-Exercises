@@ -26,10 +26,10 @@ div {
 #dateToday {
     position: absolute;
     left: 50%;
-    top: 30%;
+    top: 35%;
     transform: translate(-50%, -50%);
     font-size: 70px;
-    border: 15px dotted #65E892;
+    border: 15px #65E892;
     padding: 10px;
 }
 
